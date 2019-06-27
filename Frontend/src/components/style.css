@@ -1,0 +1,53 @@
+.edit{
+    color:#ff3600;
+}
+.edit:hover{
+    color:#ff2701;
+}
+.view{
+    color: #ff4b21;
+}
+.view:hover{
+    color:#ff2701;
+}
+
+.fonblk{
+    background-color:#ff3600;
+    font-weight: 600;
+}
+.fonblk:hover { 
+    background-color: #ff2701;
+}
+    
+.hi{
+    font-size: 12px;
+    font-weight: 300;
+
+}
+.fonn{
+    background-color:#ff4b21;
+    font-weight: 600;
+}
+
+.published{
+    position: relative;
+    left: 2em;
+}
+
+.btnclr{
+    background-color:#ff3600;
+}
+.btnclr:hover { 
+    background-color: #ff2701;
+}
+    
+.calender{
+    display:inline;
+    background-color: #ffffff;
+    color:black;
+    border-width: 0.05rem;
+    border-style: solid;
+    border-color: rgb(177, 175, 175);
+    border-radius: 0.25rem;
+    text-indent: 0.2rem;
+}
